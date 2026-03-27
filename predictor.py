@@ -32,6 +32,22 @@ FIFA_TO_WC = {
     "USA":              "USA",
 }
 
+# Playoff path winners (resolved by higher FIFA score)
+# UEFA Path D: Czechia (1492) vs Denmark (1624) → Denmark
+# UEFA Path A: Bosnia and Herzegovina (1373) vs Italy (1707) → Italy
+# UEFA Path C: Kosovo (1325) vs Türkiye (1592) → Türkiye
+# UEFA Path B: Sweden (1501) vs Poland (1541) → Poland
+# IC Path 2: Iraq (1437) vs Bolivia (1340) → Iraq
+# IC Path 1: [Jamaica/New Caledonia] vs DR Congo (1468) → DR Congo
+PLAYOFF_WINNERS = {
+    "UEFA Path D winner": "Denmark",
+    "UEFA Path A winner": "Italy",
+    "UEFA Path C winner": "Türkiye",
+    "UEFA Path B winner": "Poland",
+    "IC Path 2 winner":   "Iraq",
+    "IC Path 1 winner":   "DR Congo",
+}
+
 # Default FIFA score for teams not in the ranking list (playoff winners etc.)
 DEFAULT_SCORE = 1400.0
 
@@ -98,7 +114,12 @@ def load_rankings(html_path: str) -> dict[str, float]:
 def load_schedule(json_path: str) -> list[dict]:
     with open(json_path, encoding="utf-8") as f:
         data = json.load(f)
-    return data["matches"]
+    matches = data["matches"]
+    # Substitute playoff path winners with actual team names
+    for m in matches:
+        m["team1"] = PLAYOFF_WINNERS.get(m["team1"], m["team1"])
+        m["team2"] = PLAYOFF_WINNERS.get(m["team2"], m["team2"])
+    return matches
 
 
 # ---------------------------------------------------------------------------
