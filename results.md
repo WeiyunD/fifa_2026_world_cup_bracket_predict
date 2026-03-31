@@ -11,44 +11,44 @@
 | # | Date | Venue | Team 1 | % | Team 2 | % | Result |
 |---|------|-------|--------|---|--------|---|--------|
 |  | Thu Jun 11 | Mexico City | **Mexico** | 77.8% | **South Africa** | 22.2% | Mexico wins |
-|  | Thu Jun 11 | Guadalajara (Zapopan) | **South Korea** | 46.9% | **Denmark** | 53.1% | Draw |
-|  | Thu Jun 18 | Atlanta | **Denmark** | 72.6% | **South Africa** | 27.4% | Denmark wins |
+|  | Thu Jun 11 | Guadalajara (Zapopan) | **South Korea** | 63.1% | **Czechia** | 36.9% | Draw |
+|  | Thu Jun 18 | Atlanta | **Czechia** | 57.8% | **South Africa** | 42.2% | Draw |
 |  | Thu Jun 18 | Guadalajara (Zapopan) | **Mexico** | 59.9% | **South Korea** | 40.1% | Draw |
-|  | Wed Jun 24 | Mexico City | **Denmark** | 43.1% | **Mexico** | 56.9% | Draw |
+|  | Wed Jun 24 | Mexico City | **Czechia** | 28.1% | **Mexico** | 71.9% | Mexico wins |
 |  | Wed Jun 24 | Monterrey (Guadalupe) | **South Africa** | 29.9% | **South Korea** | 70.1% | South Korea wins |
 
 **Standings:**
 
 | Pos | Team | Pts | GD (est.) | FIFA Score |
 |-----|------|-----|-----------|------------|
-| 1 | Mexico ✅ | 5 | 1.11 | 1679.74 |
-| 2 | Denmark ✅ | 5 | 0.91 | 1623.91 |
-| 3 | South Korea 🔶 | 5 | 0.81 | 1599.45 |
-| 4 | South Africa | 0 | -2.82 | 1428.75 |
+| 1 | Mexico ✅ | 7 | 1.99 | 1679.74 |
+| 2 | South Korea ✅ | 5 | 0.81 | 1599.45 |
+| 3 | Czechia 🔶 | 2 | -0.88 | 1492.04 |
+| 4 | South Africa | 1 | -1.92 | 1428.75 |
 
-> **Advance:** Mexico (1st ✅), Denmark (2nd ✅)
+> **Advance:** Mexico (1st ✅), South Korea (2nd ✅)
 
 ## Group B
 
 | # | Date | Venue | Team 1 | % | Team 2 | % | Result |
 |---|------|-------|--------|---|--------|---|--------|
-|  | Fri Jun 12 | Toronto | **Canada** | 32.3% | **Italy** | 67.7% | Italy wins |
+|  | Fri Jun 12 | Toronto | **Canada** | 71.8% | **Bosnia and Herzegovina** | 28.2% | Canada wins |
 |  | Sat Jun 13 | San Francisco Bay Area (Santa Clara) | **Qatar** | 26.9% | **Switzerland** | 73.1% | Switzerland wins |
-|  | Thu Jun 18 | Los Angeles (Inglewood) | **Switzerland** | 43.4% | **Italy** | 56.6% | Draw |
+|  | Thu Jun 18 | Los Angeles (Inglewood) | **Switzerland** | 80.4% | **Bosnia and Herzegovina** | 19.6% | Switzerland wins |
 |  | Thu Jun 18 | Vancouver | **Canada** | 62.7% | **Qatar** | 37.3% | Draw |
 |  | Wed Jun 24 | Vancouver | **Switzerland** | 61.7% | **Canada** | 38.3% | Draw |
-|  | Wed Jun 24 | Seattle | **Italy** | 77.9% | **Qatar** | 22.1% | Italy wins |
+|  | Wed Jun 24 | Seattle | **Bosnia and Herzegovina** | 39.8% | **Qatar** | 60.2% | Draw |
 
 **Standings:**
 
 | Pos | Team | Pts | GD (est.) | FIFA Score |
 |-----|------|-----|-----------|------------|
-| 1 | Italy ✅ | 7 | 1.83 | 1707.46 |
-| 2 | Switzerland ✅ | 5 | 0.92 | 1654.69 |
-| 3 | Canada 🔶 | 2 | -0.71 | 1559.15 |
-| 4 | Qatar | 1 | -2.04 | 1454.96 |
+| 1 | Switzerland ✅ | 7 | 2.14 | 1654.69 |
+| 2 | Canada ✅ | 5 | 0.87 | 1559.15 |
+| 3 | Qatar 🔶 | 2 | -0.92 | 1454.96 |
+| 4 | Bosnia and Herzegovina | 1 | -2.09 | 1372.5 |
 
-> **Advance:** Italy (1st ✅), Switzerland (2nd ✅)
+> **Advance:** Switzerland (1st ✅), Canada (2nd ✅)
 
 ## Group C
 
@@ -121,19 +121,19 @@
 | # | Date | Venue | Team 1 | % | Team 2 | % | Result |
 |---|------|-------|--------|---|--------|---|--------|
 |  | Sun Jun 14 | Dallas (Arlington) | **Netherlands** | 63.0% | **Japan** | 37.0% | Draw |
-|  | Sun Jun 14 | Monterrey (Guadalupe) | **Poland** | 57.7% | **Tunisia** | 42.3% | Draw |
-|  | Sat Jun 20 | Houston | **Netherlands** | 74.5% | **Poland** | 25.5% | Netherlands wins |
+|  | Sun Jun 14 | Monterrey (Guadalupe) | **Sweden** | 52.8% | **Tunisia** | 47.2% | Draw |
+|  | Sat Jun 20 | Houston | **Netherlands** | 78.2% | **Sweden** | 21.8% | Netherlands wins |
 |  | Sat Jun 20 | Monterrey (Guadalupe) | **Tunisia** | 29.8% | **Japan** | 70.2% | Japan wins |
-|  | Thu Jun 25 | Dallas (Arlington) | **Japan** | 63.3% | **Poland** | 36.7% | Draw |
+|  | Thu Jun 25 | Dallas (Arlington) | **Japan** | 67.8% | **Sweden** | 32.2% | Japan wins |
 |  | Thu Jun 25 | Kansas City | **Tunisia** | 20.0% | **Netherlands** | 80.0% | Netherlands wins |
 
 **Standings:**
 
 | Pos | Team | Pts | GD (est.) | FIFA Score |
 |-----|------|-----|-----------|------------|
-| 1 | Netherlands ✅ | 7 | 2.18 | 1756.27 |
-| 2 | Japan ✅ | 5 | 0.81 | 1650.12 |
-| 3 | Poland 🔶 | 2 | -0.98 | 1541.47 |
+| 1 | Netherlands ✅ | 7 | 2.33 | 1756.27 |
+| 2 | Japan ✅ | 7 | 1.52 | 1650.12 |
+| 3 | Sweden 🔶 | 1 | -1.84 | 1501.31 |
 | 4 | Tunisia | 1 | -2.01 | 1479.04 |
 
 > **Advance:** Netherlands (1st ✅), Japan (2nd ✅)
@@ -274,24 +274,24 @@
 
 | Pos | Group | Team | Pts | GD (est.) | FIFA Score |
 |-----|-------|------|-----|-----------|------------|
-| 1 | Group A | South Korea 🔶 | 5 | 0.81 | 1599.45 |
-| 2 | Group G | Egypt 🔶 | 4 | 0.42 | 1560.52 |
-| 3 | Group E | Ivory Coast 🔶 | 4 | 0.09 | 1522.48 |
-| 4 | Group J | Algeria 🔶 | 4 | -0.5 | 1560.91 |
-| 5 | Group L | Panama 🔶 | 3 | -1.19 | 1541.62 |
-| 6 | Group C | Scotland 🔶 | 3 | -1.24 | 1506.77 |
-| 7 | Group B | Canada 🔶 | 2 | -0.71 | 1559.15 |
-| 8 | Group D | Paraguay 🔶 | 2 | -0.85 | 1501.5 |
+| 1 | Group G | Egypt 🔶 | 4 | 0.42 | 1560.52 |
+| 2 | Group E | Ivory Coast 🔶 | 4 | 0.09 | 1522.48 |
+| 3 | Group J | Algeria 🔶 | 4 | -0.5 | 1560.91 |
+| 4 | Group L | Panama 🔶 | 3 | -1.19 | 1541.62 |
+| 5 | Group C | Scotland 🔶 | 3 | -1.24 | 1506.77 |
+| 6 | Group D | Paraguay 🔶 | 2 | -0.85 | 1501.5 |
+| 7 | Group A | Czechia 🔶 | 2 | -0.88 | 1492.04 |
+| 8 | Group B | Qatar 🔶 | 2 | -0.92 | 1454.96 |
 
 ---
 
 # Round of 32
 
 ## M73 — Sun Jun 28 | Los Angeles (Inglewood)
-- 🏅 ⚠️ **Denmark** 46.2%  vs  **Switzerland** 53.8%
+- 🏅 ⚠️ **South Korea** 55.0%  vs  **Canada** 45.0%
 
 ## M74 — Mon Jun 29 | Boston (Foxborough)
-- 🏅 **Germany** 65.1%  vs  **South Korea** 34.9%  → **Germany** advances
+- 🏅 **Germany** 74.8%  vs  **Scotland** 25.2%  → **Germany** advances
 
 ## M75 — Mon Jun 29 | Monterrey (Guadalupe)
 - 🏅 ⚠️ **Netherlands** 50.2%  vs  **Morocco** 49.8%
@@ -312,10 +312,10 @@
 - 🏅 **England** 79.7%  vs  **Algeria** 20.3%  → **England** advances
 
 ## M81 — Wed Jul 01 | San Francisco Bay Area (Santa Clara)
-- 🏅 **USA** 64.9%  vs  **Canada** 35.1%  → **USA** advances
+- 🏅 **USA** 75.7%  vs  **Qatar** 24.3%  → **USA** advances
 
 ## M82 — Wed Jul 01 | Seattle
-- 🏅 **Belgium** 72.0%  vs  **Panama** 28.0%  → **Belgium** advances
+- 🏅 **Belgium** 76.7%  vs  **Czechia** 23.3%  → **Belgium** advances
 
 ## M83 — Thu Jul 02 | Toronto
 - 🏅 ⚠️ **Colombia** 46.8%  vs  **Croatia** 53.2%
@@ -324,7 +324,7 @@
 - 🏅 **Spain** 80.9%  vs  **Austria** 19.1%  → **Spain** advances
 
 ## M85 — Thu Jul 02 | Vancouver
-- 🏅 **Italy** 73.2%  vs  **Scotland** 26.8%  → **Italy** advances
+- 🏅 **Switzerland** 63.8%  vs  **Panama** 36.2%  → **Switzerland** advances
 
 ## M86 — Fri Jul 03 | Miami (Miami Gardens)
 - 🏅 **Argentina** 73.2%  vs  **Uruguay** 26.8%  → **Argentina** advances
@@ -343,8 +343,8 @@
 - 🏅 **Germany** 32.1%  vs  **France** 67.9%  → **France** advances
 
 ## M90 — Sat Jul 04 | Houston
-- 🏅 **Denmark / Switzerland** 35.9%  vs  **Netherlands / Morocco** 64.1%  → **Netherlands / Morocco** advances
-  - *(slot 1 breakdown: Denmark 50% / Switzerland 50%)*
+- 🏅 **South Korea / Canada** 29.3%  vs  **Netherlands / Morocco** 70.7%  → **Netherlands / Morocco** advances
+  - *(slot 1 breakdown: South Korea 51% / Canada 49%)*
   - *(slot 2 breakdown: Netherlands 50% / Morocco 50%)*
 
 ## M91 — Sun Jul 05 | New York/New Jersey (East Rutherford)
@@ -365,7 +365,7 @@
   - *(slot 2 breakdown: Australia 49% / Iran 51%)*
 
 ## M96 — Tue Jul 07 | Vancouver
-- 🏅 ⚠️ **Italy** 43.4%  vs  **Portugal** 56.6%
+- 🏅 **Switzerland** 37.1%  vs  **Portugal** 62.9%  → **Portugal** advances
 
 ---
 
@@ -384,8 +384,7 @@
   - *(slot 1 breakdown: Brazil 51% / Senegal 49%)*
 
 ## M100 — Sat Jul 11 | Kansas City
-- 🏅 **Argentina** 66.8%  vs  **Italy / Portugal** 33.2%  → **Argentina** advances
-  - *(slot 2 breakdown: Italy 49% / Portugal 51%)*
+- 🏅 **Argentina** 63.8%  vs  **Portugal** 36.2%  → **Argentina** advances
 
 ---
 

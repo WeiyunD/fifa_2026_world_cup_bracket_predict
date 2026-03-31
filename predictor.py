@@ -32,18 +32,18 @@ FIFA_TO_WC = {
     "USA":              "USA",
 }
 
-# Playoff path winners (resolved by higher FIFA score)
-# UEFA Path D: Czechia (1492) vs Denmark (1624) → Denmark
-# UEFA Path A: Bosnia and Herzegovina (1373) vs Italy (1707) → Italy
-# UEFA Path C: Kosovo (1325) vs Türkiye (1592) → Türkiye
-# UEFA Path B: Sweden (1501) vs Poland (1541) → Poland
+# Playoff path winners (user-updated results)
+# UEFA Path D: Czechia beats Denmark → Czechia
+# UEFA Path A: Bosnia and Herzegovina beats Italy → Bosnia and Herzegovina
+# UEFA Path C: Turkey beats Kosovo → Türkiye
+# UEFA Path B: Sweden beats Poland → Sweden
 # IC Path 2: Iraq (1437) vs Bolivia (1340) → Iraq
 # IC Path 1: [Jamaica/New Caledonia] vs DR Congo (1468) → DR Congo
 PLAYOFF_WINNERS = {
-    "UEFA Path D winner": "Denmark",
-    "UEFA Path A winner": "Italy",
+    "UEFA Path D winner": "Czechia",
+    "UEFA Path A winner": "Bosnia and Herzegovina",
     "UEFA Path C winner": "Türkiye",
-    "UEFA Path B winner": "Poland",
+    "UEFA Path B winner": "Sweden",
     "IC Path 2 winner":   "Iraq",
     "IC Path 1 winner":   "DR Congo",
 }
